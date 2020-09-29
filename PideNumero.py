@@ -1,8 +1,8 @@
 
 
 def main():
-    print("\n PROGRAMA NUMERO 5")
-    print("\n QUE PERMITE VISUALIZAR LA TABAL DE MULTIPLICAR")
+    print("\n PROGRAMA NUMERO ")
+    print("\n QUE PERMITE VISUALIZAR LA TABLA DE MULTIPLICAR")
     print("\n DEL NUMERO QUE TU INDIQUES")
 
     a = int(input("\n\nUsuario introduce el numero de la tabla que deseas: "))
