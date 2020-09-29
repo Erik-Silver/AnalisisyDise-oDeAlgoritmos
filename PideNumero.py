@@ -1,6 +1,14 @@
 
 
 def main():
+    '''
+    Equipo 2
+    Alumnos:
+    Galindo Rosales Erik Eduardo
+    Loaeza Nava José Alfredo
+    Ramos Vallinas Héctor Ulises
+    '''
+    
     print("\n PROGRAMA NUMERO ")
     print("\n QUE PERMITE VISUALIZAR LA TABLA DE MULTIPLICAR")
     print("\n DEL NUMERO QUE TU INDIQUES")
